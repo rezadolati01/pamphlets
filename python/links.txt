@@ -1,4 +1,3 @@
+https://github.com/doctor-010101/learning_python
 
-danielsadri:
-https://github.com/danielsadri/PythonProject
-___________________________________
+https://github.com/MHBehoozi/pythonlearning
